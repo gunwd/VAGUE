@@ -1,0 +1,31 @@
+.alert-box {
+  text-align: center;
+  padding: 20px;
+  background-color: #000000; /* Red */
+  color: white;
+  z-index: 0;
+}
+
+canvas {
+  display: block;
+  margin: auto;
+}
+
+.card-item {
+  width: 420px;
+  height: 565px;
+}
+
+.card-item .card-text {
+  width: 385px;
+  height: 75px;
+}
+
+.card-item img {
+  width: 400px;
+  height: 410px;
+}
+
+.card-setting {
+  width: 400px;
+}
