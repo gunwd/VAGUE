@@ -8,7 +8,7 @@
 - Login / Register (account data stored in MySQL)
 - Search Filters
 - Shopping Cart
-- Order Logic – Verifies the account first, then updates product data.
+- Order Logic — Verifies the account first, then updates product data.
 - Account Page — Shows details and info on previous orders.
 
 ![VAGUE — Shopping Cart](./preview/2.png "VAGUE — Shopping Cart")
