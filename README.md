@@ -1,4 +1,4 @@
-# Vague — E-Commerce Website Written in Vanilla PHP and Bootstrap
+# VAGUE — E-Commerce Website Written in Vanilla PHP and Bootstrap
 
 ![VAGUE — Home Page](./preview/1.gif "VAGUE — Home Page")
 
@@ -8,9 +8,8 @@
 - Login / Register (account data stored in MySQL)
 - Search Filters
 - Shopping Cart
-- Account Validation Before an Order is Placed
-- Order Logic (updates product data)
-- Account Page With Info on Previous Orders
+- Order Logic – Verifies the account first, then updates product data.
+- Account Page — Shows details and info on previous orders.
 
 ![VAGUE — Shopping Cart](./preview/2.png "VAGUE — Shopping Cart")
 ![VAGUE — Account Page](./preview/3.png "VAGUE — Account Page")
